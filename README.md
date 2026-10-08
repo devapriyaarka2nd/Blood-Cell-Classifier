@@ -1,0 +1,1 @@
+A Jupyter notebook comparing a custom convolutional neural network with ImageNet-initialized EfficientNetB3 for blood-cell image classification. It includes class distribution plots, sample images, training curves, evaluation, confusion matrices, and per-class classification reports.
