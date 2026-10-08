@@ -1,0 +1,10 @@
+# Original package versions were not recorded in the supplied notebook.
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+kagglehub
+jupyterlab
